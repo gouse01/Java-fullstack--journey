@@ -53,10 +53,38 @@ A student registration form created using HTML.
 * Practice labels, buttons, lists, and links
 * Improve web development fundamentals
 
+### 📌 Project 3 - Resume Webpage
+
+A simple personal resume webpage created using HTML.
+
+**Features**
+
+* Personal Information
+* Career Objective
+* Education Table
+* Technical Skills
+* Projects
+* Languages Known
+
+**Concepts Used**
+
+* Headings
+* Paragraphs
+* Tables
+* Lists
+* Hyperlinks
+* Horizontal Rule
+
+**File**
+
+
+
 ## 📁 Files
 
 * `project-1.html` — Login Page
 * `projest-2.html` — Student Registration Form
+* `project-3.html` - Resume Webpage
+
 
 ---
 
